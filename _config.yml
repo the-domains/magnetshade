@@ -2,6 +2,7 @@ name: MagnetShade
 favicon: null
 layout_spectrum: 0.20923601696267724
 typography_spectrum: 0.6347149414941669
+title: MagnetShade
 cta:
   domain: null
   bucket: null
