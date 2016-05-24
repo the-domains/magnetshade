@@ -1,0 +1,28 @@
+name: MagnetShade
+favicon: null
+layout_spectrum: 0.20923601696267724
+typography_spectrum: 0.6347149414941669
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#9D2D3C'
+    - '#DDE4DD'
+    - '#BCAB47'
+    - '#6B574B'
+    - '#160600'
+  brandStrength: 0.781315001193434
+  lightness: 0.2125747543759644
+  saturation: 0.8554943453054875
+  rhythmicContrast: 0.43515754211694
+purpose: []
